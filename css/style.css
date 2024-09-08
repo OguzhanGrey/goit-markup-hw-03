@@ -168,3 +168,21 @@ h2 {
 #Studio1 {
   color: #f4f4fd;
 }
+
+.container2{
+  width: 1128px;
+  height: 104px;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 220px;
+  padding-left: 120px;
+  padding-top: 70px;
+}
+.container2 ul{
+  display: flex;
+  gap: 30px;
+}
+.part{
+  width: 264px;
+  height: 72px;
+}
